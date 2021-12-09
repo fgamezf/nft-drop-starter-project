@@ -1,0 +1,21 @@
+{
+    "name": "Cestin Modern",
+    "symbol": "",
+    "description":"Modern version of the smart bot (product recommender) at decomprasporlared.com",
+    "image": "3.png",
+    "external_url": "https://decomprasporlared.com",
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8SGED1AZw4oiNFj3pAo1qds7erhUVsZq3FTAVRfRZXoT",
+          "share": 100
+        }
+      ]
+    }
+  }

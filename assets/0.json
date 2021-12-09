@@ -1,0 +1,21 @@
+{
+    "name": "Cestin",
+    "symbol": "",
+    "description":"First version of the smart bot (product recommender) at decomprasporlared.com",
+    "image": "0.png",
+    "external_url": "https://decomprasporlared.com",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8SGED1AZw4oiNFj3pAo1qds7erhUVsZq3FTAVRfRZXoT",
+          "share": 100
+        }
+      ]
+    }
+  }
